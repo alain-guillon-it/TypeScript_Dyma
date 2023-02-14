@@ -1,0 +1,9 @@
+{
+    "include": ["src/**/*.ts"],
+    "compilerOptions": {
+        "allowJs": true,
+        "outDir": "dist",
+        "target": "ES6",
+        "module": "ES2022"
+    }
+}
